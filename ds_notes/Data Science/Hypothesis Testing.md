@@ -1,0 +1,4 @@
+---
+aliases:
+  - Teste de hipótese
+---

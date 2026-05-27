@@ -1,0 +1,2 @@
+- KNN é um algoritmo perigoso
+	- treinamento: guarda os exemplos de treinamento

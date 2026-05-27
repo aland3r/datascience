@@ -1,0 +1,1 @@
+Enron foi uma empresa (das maiores dos EUA) cujos dados foram expostos como pena de crimes fiscais.
